@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a package written for the [telescope project](http://www.telesc.pe/).  It provides twitter integration such that admin users can tweet links to telescope posts on their communities twitter page.
+This is a package written for the [telescope project](http://www.telesc.pe/).  It provides twitter integration such that admin users can tweet links to telescope posts on their community's twitter page.
 
 ## Set up twitter application
 
