@@ -1,0 +1,7 @@
+<template name="postTweet">
+  {{#if isAdmin}}
+    <div class="post-meta-item">
+      | <a href="#" class="tweet-post">{{_ "tweet"}} [{{tweetCount}}]</a>
+    </div>
+  {{/if}}
+</template>
