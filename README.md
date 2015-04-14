@@ -4,6 +4,8 @@
 
 This is a package written for the [telescope project](http://www.telesc.pe/).  It provides twitter integration such that admin users can tweet links to telescope posts on their community's twitter page.
 
+[Blog post](https://thesauceco.de/blog/Twitter-integration-for-Telescope).
+
 ## Set up twitter application
 
 1. Go to [Twitter Apps](https://apps.twitter.com/)
