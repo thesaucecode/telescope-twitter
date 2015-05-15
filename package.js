@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Share posts on your communities twitter account',
-  version: '0.0.1',
+  version: '0.0.2',
   name: 'telescope-twitter'
 });
 
